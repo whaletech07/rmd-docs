@@ -59,7 +59,7 @@ print("This is a code block")}
 
 ### Tabs
 
-Tabs can be toggled using `\tabs{true/false}` at the start of the file. If `\tabs` is set to `true`, you can define tabs usign \t#{ to start, and \t#} to end (with # representing the tab number, must be in number order). For example, ```\tabs{true}
+Tabs can be toggled using `\tabs{true/false}` at the start of the file. If `\tabs` is set to `true`, you can define tabs usign `\t#{` to start, and `\t#}` to end (with # representing the tab number). For example, ```\tabs{true}
 \t1{
 text
 \t1}```
