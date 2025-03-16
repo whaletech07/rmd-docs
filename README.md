@@ -1,6 +1,6 @@
 # RMD (Rich Markdown)
 
->The latest version of RMD is currently b0.2. This documentation is up-to-date with the latest featured of RMD.
+>The latest version of RMD is currently b0.2. This documentation is up-to-date.
 
 RMD (Rich Markdown) is a custom text formatting language inspired by Markdown, with additional rich text features and a structured syntax, while keeping it human-readable.
 
