@@ -39,7 +39,7 @@ RMD currently only supports numbered lists using `\list{}` syntax.
 ### Images
 
 ```
-\img{"Alt text";https://example.com/image.png}
+\img{"Alt text";https://whalete.ch/image.png}
 ```
 
 ### Code Blocks
@@ -78,11 +78,7 @@ text
 
 This is a demonstration of RMD (Rich Markdown) formatted text.
 
-\h2{Features}
-
-\list{1;"Standard Markdown features";2;"Extended formatting using \b{}, \i{}, and \u{}";3;"Tables and horizontal rules are planned for future versions of the format."}
-
-\h2{Code Example}
+\h2{Code}
 
 \cb{def hello():
     print("Hello, world!")}
